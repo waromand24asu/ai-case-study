@@ -268,3 +268,32 @@ https://www.alpha-sense.com/blog/news/announcing-100-million-investment-capitalg
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 > 
+## **Sources**
+
+  https://www.alpha-sense.com/ 
+    
+  https://builtin.com/company/alphasense
+    
+  https://www.alpha-sense.com/contributor/jack-kokko/
+    
+  https://www.alpha-sense.com/about/
+    
+  https://techcrunch.com/2023/09/28/alphasense-an-ai-based-market-intel-firm-snaps-up-150m-at-a-2-5b-valuation/
+   
+  https://www.alpha-sense.com/blog/news/announcing-100-million-investment-capitalg-launch-generative-ai-capabilities/
+    
+  https://www.crunchbase.com/organization/sentieo
+    
+  https://www.crunchbase.com/organization/stream-by-mosaic
+    
+  https://www.crunchbase.com/organization/alphasense?utm_source=yahoo&utm_medium=referral&utm_campaign=yahoo_finance&utm_content=organic_content
+    
+  https://discovery.hgdata.com/product/alphasense
+   
+  https://ai100.stanford.edu/gathering-strength-gathering-storms-one-hundred-year-study-artificial-intelligence-ai100-2021-1/sq2#finance
+    
+  https://builtin.com/artificial-intelligence/ai-finance-banking-applications-companies
+    
+  OpenAI. (2024). ChatGPT. Retrieved June 9, 2024, from https://chatgpt.com/?oai-dm=1
+    
+    
